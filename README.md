@@ -79,8 +79,3 @@ The use of bots and scrapers are mentioned [here](https://www.linkedin.com/help/
 Use this bot at your own risk. 
 Just to push more knowledege a judge in California ruled that they cannot prohibit bots([article](https://www.bbc.com/news/technology-40932487)).
 
-## Note
-
-I have sparily modified this project over the past few years. Others have taken upon themselves to leverage this as a base and work off of it from here. As I learn more about other's work using this I will link their projects here:
-
-* [@SethRzeszutek's](https://github.com/SethRzeszutek) https://github.com/SethRzeszutek/LinkedIn-Bot
